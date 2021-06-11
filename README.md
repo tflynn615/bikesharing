@@ -30,9 +30,9 @@ To tell this story, we decided to evaluate average user data and dive deeper int
 ![gender.png](gender.png)
 
 
-To view the full data story and interact with the data, visit here: [https://public.tableau.com/views/Challenge_16234486489100/CityBikeUse?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Challenge_16234486489100/CityBikeUse?:language=en-US&:display_count=n&:origin=viz_share_link "Challenge")
+To view the full data story and interact with the data, visit here: [https://public.tableau.com/views/Challenge_16234486489100/CityBikeUse?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Challenge_16234486489100/CityBikeUse?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Summary 
 
-
+Overall, Citi Bike seems like a solid business proposal with a strong base among male professionals in New York City. I would recommend visualizations that look at the genders of users for competitors like Bird as well as public transit data like average usage information for buses and trains to understand habits of potential future users. 
